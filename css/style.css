@@ -45,7 +45,7 @@ a {
 }
 
 .flex li {
-  width: auto;
+  width: calc(100%/3);
 }
 
 .flex li img {
